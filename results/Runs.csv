@@ -1,0 +1,5 @@
+﻿,Prev. Year,"Ensemble (temp=0, n=3)","Ensemble (temp=0, n=5)","Ensemble (temp={0,0.25,…}, n=5)",0-Shot,0-Shot Symbolic,"10-Shot (random, same seed)","10-Shot (random, random seed)","""Consider both""","COT (""Select most relevant"")",0-Shot Article Retrieval (temp=1),4-Shot TFIDF,"Ensemble (4-Shot from top-10, repeated 5 times)",Self-Ask 0-Shot,RoBERTa,LegalBERT
+R03 (109),0.678,0.71,0.716,0.724,0.75,0.688,0.7248,0.75,0.477,0.647,0.74,0.679,0.716,0.752,0.55,0.606
+H30 (70),0.7,0.58,0.6,0.585,0.66,0.68-0.71,0.74,0.7,0.543,0.671,0.54,,,0.7,0.585,0.557
+R01 (111),0.639,0.64,0.66,0.67,0.73,0.613,0.613,0.68,,0.64,0.62,,,0.658,0.554,0.538
+R02 (81),0.543,0.72,0.7,0.72,0.7,0.63-0.642,0.66,0.642,,0.667,0.63,,,0.667,0.617,0.543

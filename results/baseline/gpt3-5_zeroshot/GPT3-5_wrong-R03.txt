@@ -1,0 +1,278 @@
+R03-01-E
+articles: 
+Article 32 (1) Having received proof that a missing person is alive or that a missing person died at a time different from the time set forth in the preceding Article, the family court, at the request of the missing person or an interested person, must rescind the declaration of that person's disappearance. In this case, the rescission does not affect the validity of any act performed in good faith after the declaration of disappearance but before the rescission thereof.
+(2) A person who has acquired property due to a declaration of disappearance loses the rights in question due to its rescission; provided, however, that the person has the obligation to return that property only to the extent currently enriched.
+query: 
+In the event that a declaration of disappearance is rescinded, a person who has acquired property due to the declaration of disappearance must return to the missing person the full amount of the benefits received from the acquisition of the property, even if the person acted in good faith regarding the survival of the missing person.
+N
+
+R03-01-O
+articles: 
+Article 32 (1) Having received proof that a missing person is alive or that a missing person died at a time different from the time set forth in the preceding Article, the family court, at the request of the missing person or an interested person, must rescind the declaration of that person's disappearance. In this case, the rescission does not affect the validity of any act performed in good faith after the declaration of disappearance but before the rescission thereof.
+query: 
+If A, who was subject to a declaration of disappearance and was deemed to have died, had purchased land X from B before the declaration of disappearance was rescinded, this sales contract is effective only if B acted in good faith regarding the declaration of disappearance.
+N
+
+R03-03-O
+articles: 
+Article 98 (1) A manifestation of intention may be made by means of public notice if the person making it is unable to ascertain who the other party is or is unable to ascertain the whereabouts thereof.
+(2) Public notice as referred to in the preceding paragraph is effected by a notice being posted in the posting area of the relevant court and an indication that that posting has been made being published in the Official Gazette at least once, in accordance with the provisions of the Code of Civil Procedure (Act No. 109 of 1996) on service by publication; provided, however, that if the court finds it to be suitable, it may order that a notice be posted in the posting area of the city office, ward office, town hall, or any facility equivalent to these in lieu of the relevant information being published in the Official Gazette.
+(3) A manifestation of intention by public notice is deemed to have reached the other party once two weeks have passed since the day when the relevant information was last published in the Official Gazette or once two weeks have passed since the day on which the relevant information started to be posted in lieu of being so published; provided, however, that the effect of a manifestation of intention having reached the other party does not arise if the person making it was negligent in not ascertaining the other party or the whereabouts thereof.
+(4) If the person making a manifestation of intention is unable to ascertain who the other party is, the procedures involved in public notice are under the jurisdiction of the summary court that has jurisdiction over the locality where the person making the manifestation of intention is domiciled; if the person making a manifestation of intention is unable to ascertain the whereabouts of the other party, the procedures involved in public notice are under the jurisdiction of the summary court that has jurisdiction over the locality of the last known domicile of the other party.
+(5) The court must have the person making a manifestation of intention prepay the expenses associated with a public notice.
+query: 
+A wanted to send B a notice of intention to cancel the contract but did not know where B was, and the manifestation of intention to cancel was made by means of public notice. In this case, even if A was negligent in not knowing the whereabouts of B, the manifestation of intention to cancel made by A is effective.
+N
+
+R03-04-A
+articles: 
+Article 140 When a period is provided for in days, weeks, months, or years, the first day of the period is not included in the computation; provided, however, that this does not apply when the period commences at twelve midnight.
+query: 
+If an agreement is made at 3:00 p.m. on May 16 of a given year that the obligation will be fulfilled within one week, the period commences at twelve midnight of the same day, which does not fall on Sunday, holiday as provided in the Act on National Holidays, or any other holiday.
+N
+
+R03-04-E
+articles: 
+Article 143 (1) If a period is provided for in weeks, months, or years, the period is calculated in accordance to the calendar.
+(2) If a period does not commence at the beginning of the week, month, or year, that period expires on the day immediately preceding the day which corresponds to the commencement day in the last week, month or year; provided, however, that if the period is provided for in months or years and the last month does not contain a corresponding day, the period expires on the last day of that month.
+query: 
+If an agreement is made at 11:00 a.m. on July 12 of a given year that the obligation will be fulfilled within one month, the period expires at 12:00 p.m. on August 13 of the same year, both of which do not fall on Sundays, holidays as provided in the Act on National Holidays, or any other holidays.
+N
+
+R03-04-U
+articles: 
+Article 142 If the last day of a period falls on a Sunday, a holiday as provided in the Act on National Holidays (Act No. 178 of 1948), or any other holiday, only when it is customary not to do business on the relevant day, the period expires on the immediately following day.
+query: 
+If the last day of the period provided by agreement falls on a Sunday, and it is customary to do business on that Sunday, the period expires on that day.
+Y
+
+R03-05-A
+articles: 
+Article 150 (1) If a demand is made, the prescription period does not expire until six months have passed since the time of the demand.
+(2) A second demand made during the postponement of expiry of the prescription period granted on the ground of the first demand does not have the effect of postponement of expiry of prescription period under the provisions of the preceding paragraph.
+query: 
+If the obligee makes the second demand during the postponement of expiry of the prescription period granted on the ground of the first demand, the prescription period does not expire until six months have passed from the time of the second demand.
+N
+
+R03-07-A
+articles: 
+Article 179 (1) If ownership and another real right on the same thing are acquired by the same person, the other real right is extinguished; provided, however, that this does not apply if that thing or the other real right is the object of the right of a third party.
+(2) If a real right other than ownership and another right for which that real right is the object are acquired by the same person, the other right is extinguished. In this case, the provisions of the proviso to the preceding paragraph apply mutatis mutandis.
+(3) The provisions of the preceding two paragraphs do not apply to possessory rights.
+query: 
+In the case where A has created a first-ranked mortgage for B and a second-ranked mortgage for C on land X owned by A, and the mortgages were registered, even if C subsequently acquires land X by inheritance from A, the second-ranked mortgage will not be extinguished due to merger of rights.
+N
+
+R03-07-I
+articles: 
+Article 96 (1) A manifestation of intention based on fraud or duress is voidable.
+(2) If a third party commits a fraud inducing a first party to make a manifestation of intention to a second party, that manifestation of intention is voidable only if the second party knew or could have known that fact.
+(3) The rescission of a manifestation of intention induced by fraud under the provisions of the preceding two paragraphs may not be duly asserted against a third party in good faith acting without negligence.
+query: 
+After A sold land X owned by A to B, B resold land X to C, and each of them was registered as such. After that, A voided the sales contract with B on the ground of fraud. If C did not know without negligence that A's manifestation of intention to sell was induced by fraud, the acquisition of the ownership of land X is not impaired.
+Y
+
+R03-08-A
+articles: 
+Article 201 (1) An action for maintenance of possession must be filed during the obstruction or within one year after the obstruction stops; provided, however, that if the possessed thing has been damaged due to construction work and either one year has passed from the time when the construction was started or the construction has been completed, the action may not be filed.
+(2) An action for preservation of possession may be filed so long as the danger of obstruction exists. In this case, the provisions of the proviso to the preceding paragraph apply mutatis mutandis if the possessed thing is likely to be damaged by the construction work.
+(3) An action for recovery of possession must be filed within one year from the time when a possessor was forcibly dispossessed.
+query: 
+In the case where A has started construction work to develop residential land on land X owned by A, and a danger exists in the neighboring land due to the construction, B, who lives on land Y can file an action for preservation of possession against A even if one year has passed since the start of construction, before the construction is completed.
+N
+
+R03-09-U
+articles: 
+Article 258 (1) If no agreement is reached among co-owners with respect to the partition of property in co-ownership, a request for partition of the same may be submitted to the court.
+(2) In cases referred to in the preceding paragraph, if the property in co-ownership cannot be partitioned in kind, or it is likely that the value thereof will be significantly reduced by the partition, the court may order the sale of the same at auction.
+query: 
+If, in a judicial decision seeking partition of property in co-ownership, the property in co-ownership cannot be partitioned in kind, or it is likely that the value thereof will be significantly reduced by the partition, the court shall order the sale of the same at auction.
+N
+
+R03-12-I
+articles: 
+Article 345 A pledgee may not allow a pledgor to possess the thing pledged on behalf of the pledgee.
+query: 
+A pledgee of movables may not have a pledgor possess the thing pledged on behalf of the pledgee.
+Y
+
+R03-15-A
+articles: 
+Article 418 If the obligee is negligent regarding the failure to perform the obligation or the occurrence or spreading of a damage caused thereby, the court determines the liability for compensation for loss or damage and the amount thereof by taking these elements into consideration.
+query: 
+If the obligee is negligent regarding non-performance, the court may deny the responsibility of the compensation for loss or damage, taking into consideration the negligence by the obligee.
+Y
+
+R03-15-E
+articles: 
+Article 417 Unless a particular intention is manifested, the amount of the compensation for loss or damage is determined with reference to monetary value.
+query: 
+The compensation for loss or damage due to non-performance may not be satisfied by any method other than the payment of the money.
+N
+
+R03-16-O
+articles: 
+Article 420 (1) The parties may agree on the amount of liquidated damages with respect to the failure to perform the obligation.
+(2) The agreement on liquidated damages do not preclude the request for performance or the exercise of the cancellation right.
+(3) A penalty is presumed to constitute liquidated damages.
+query: 
+The agreement on the penalty is presumed to be an agreement on payment of certain amount of money in addition to the compensation for the actual damage due to the non-performance.
+N
+
+R03-16-U
+articles: 
+Article 548-2 (1) In the following cases, a person making an agreement to conduct a standard transaction (meaning a transaction conducted by a specified person with an unspecified and large number of persons as the counterparties, in which the uniformity of the whole or part of the transaction is reasonable to both parties; the same applies hereinafter) (that agreement is referred to as an "agreement on standard transaction" in the following Article) is deemed to have made an agreement on individual terms of the standard form contract (referring to a collection of provisions prepared by that specific person with the purpose of applying them as the terms of a contract for a standard transaction; the same applies hereinafter):
+(i) if the person agrees to apply the standard terms of contract as the terms of contract; or
+(ii) if the person that has prepared the standard terms of contract (hereinafter referred to as the "preparer of the standard terms") manifests to the counterparty the intention to apply the standard terms of contract as the terms of the contract in advance.
+(2) Notwithstanding the provisions of the preceding paragraph, the person is deemed not to have agreed to any provisions as referred to in that paragraph that restrict the rights or expand the duties of the counterparty and that are found, in light of the manner and circumstances of the standard transaction as well as the common sense in the transaction, to unilaterally prejudice the interests of the counterparty in violation of the fundamental principle prescribed in Article 1, paragraph (2).
+Article 548-3 (1) A preparer of the standard terms that conducts or seeks to conduct a standard transaction must disclose the details of the standard terms of contract by a reasonable method without delay if the counterparty requests this within a reasonable period of time before or after an agreement on standard transaction is made; provided, however, that this does not apply if the preparer has already delivered to the counterparty a document that contains the standard terms of contract or provided the other party with an electronic or magnetic record that contains the same.
+(2) The provisions of the preceding Article do not apply if the preparer of the standard terms of contract refuses the request referred to in the preceding paragraph before an agreement on standard transaction is made; provided, however, that this does not apply if a temporary communication failure takes place or the preparer has a legitimate reason to refuse it.
+query: 
+There is an agreement on the amount of liquidated damages with respect to the failure to perform the obligation in the standard terms of contract, and the counterparty of the preparer of the standard terms requested the disclosure of the details of the standard terms of contract before the a standard transaction. However, the agreement on standard transaction was made without the preparer of the standard terms disclosing the detail with no legitimate reasons.
+In this case, the agreement on the amount of liquidated damages will not be deemed to be made.
+Y
+
+R03-17-O
+articles: 
+Article 423-5 Even if the obligee exercises the subrogor's right, the obligor is not precluded from independently collecting or otherwise disposing of the subrogor's right. In such a case, the other party is not precluded from performing the obligation to the obligor with respect to the subrogor's right.
+query: 
+The obligor may exercise subrogor's right even after the obligee notified that obligee had exercised the subrogor’s right.
+Y
+
+R03-19-I
+articles: 
+Article 465-6 (1) A guarantee contract under which the principal obligation is a loan obligation assumed for business or a contract for a revolving guarantee under which the scope of the principal obligation includes a loan obligation assumed for business does not become effective unless the person that will become a guarantor manifests, prior to the conclusion of the contract, the intention to perform the guarantee obligation by means of a notarial instrument prepared within one month prior to the day of conclusion of the contract.
+(2) The notarial instrument referred to in the preceding paragraph must be prepared in compliance with the following formalities:
+(i) the person that will become a guarantor gives the notary oral instructions regarding the particulars specified in (a) or (b) below for the category of contract set forth therein:
+(a) a guarantee contract (excluding the one set forth in (b)): the obligee and obligor of the principal obligation, the principal of the principal obligation, whether any interest, penalty or compensation for loss or damage in connection with the principal obligation or any other charges secondary to the obligation are provided for in the contract and, if so, the details thereof, as well as the fact that the person that will become a guarantor has the intention to pay the entire amount of the obligation if the principal obligor fails to perform the obligation (if the person that will become a guarantor seeks to assume the obligation jointly and severally with the principal obligor, the intention to pay the entire amount of the obligation, regardless of whether the obligee has made a demand to the principal obligor, whether the principal obligor is able to perform the obligation, or whether the principal obligor has any other guarantor); or
+(b) a contract for a revolving guarantee: the obligee and obligor of the principal obligation, the scope of the principal obligation, the maximum amount under the contract for revolving guarantee, whether the principal crystallization date is provided for in the contract and, if so, the details thereof, as well as the fact that the person that will become a guarantor has the intention to pay the entire amount of the obligation with regard to the principal of the principal obligation and any interest, penalty, and compensation for loss or damage in connection with the principal obligation and any other charges secondary to the obligation, which are to arise by the principal crystallization date or the time when an event that causes the crystallization of the principal takes place, such as the events set forth in the items of Article 465-4, paragraph (1) or the items of paragraph (2) of that Article, up to the maximum amount, if the principal obligor fails to perform the obligation (if the person that will become a guarantor seeks to assume the obligation jointly and severally with the principal obligor, the intention to pay the entire amount of the obligation, regardless of whether the obligee has made a demand to the principal obligor, whether the principal obligor is able to perform the obligation, or whether the principal obligor has any other guarantor);
+(ii) the notary takes dictation from the person that will become the guarantor, and reads this aloud to, or allows its inspection by, the person that will become the guarantor;
+(iii) the person that will become a guarantor signs and seals the instrument after having approved the accuracy of the dictation taken by the notary; provided, however, that if the person that will become a guarantor is unable to sign, the notary may include a supplementary note giving the reason therefor in lieu of the signature of that person; and
+(iv) the notary includes a supplementary note to the effect that the instrument has been prepared in compliance with the formalities set forth in the preceding three items, and signs and seals the instrument.
+(3) The provisions of the preceding two paragraphs do not apply if the person that will become a guarantor is a corporation.
+query: 
+Suppose that the individual A guaranteed the obligation of B against C. If the obligation of B guaranteed by A is a loan obligation to be assumed for business of B, the guarantee contract between A and C will become effective by manifesting the intention to perform the guarantee obligation by means of a notarial instrument.
+N
+
+R03-19-U
+articles: 
+Article 458-2 If a guarantor gives a guarantee as requested by the principal obligor, the obligee, upon request of the guarantor, must provide, without delay, the guarantor with information concerning whether or not there has been a default in terms of the principal of the principal obligation or any interest, penalty or compensation for loss or damage in connection with the principal obligation or any other charges secondary to the obligation, as well as the remaining amount of these items and the amount of those already due.
+query: 
+Suppose that the individual A guarantees the obligation of B against C. When A gave a guarantee for the obligation as requested by B, C must regularly provide A with information concerning whether or not there has been a default in terms of the principal of the principal obligation or any interest, as well as the remaining amount of these items and the amount of those already due.
+N
+
+R03-20-U
+articles: 
+Article 472 (1) A new obligor resulting from the assumption of obligation releasing an old obligor assumes an obligation of the same content as the obligation of the initial obligor to the obligee, and the initial obligor is released from their own obligation.
+(2) The assumption of obligation releasing an old obligor may be effected by a contract between the obligee and the person that becomes the replacing obligor. In such a case, the assumption of obligation releasing an old obligor becomes effective when the obligee notifies the initial obligor of the conclusion of that contract.
+(3) The assumption of obligation releasing an old obligor may also be effected if the initial obligor and the person that becomes the replacing obligor conclude a contract and the obligee gives consent to the person that becomes the replacing obligor.
+query: 
+When a contract of the assumption of obligation releasing an old obligor is concluded between the initial obligor and the person that becomes the replacing obligor, the initial obligor and the person that becomes the replacing obligor may assert against the obligee the effect of the assumption by the notification to the obligee or the consent by obligee.
+N
+
+R03-21-E
+articles: 
+Article 511 (1) A third party obligor of a claim which has been attached may not assert sett-off as defense with any claim acquired after the attachment against the attaching obligee, but may duly assert against the same a set-off based using a claim acquired before the attachment.
+(2) Notwithstanding the provisions of the preceding paragraph, if a claim acquired after the attachment has arisen from a cause that existed before the attachment, the third party obligor may use that claim for a set-off against the attaching obligee; provided, however, that this does not apply if the third party obligor acquires the claim of another person after the attachment.
+Article 505 (1) If two persons bear an obligation to each other that has the same kind of purpose and if both obligations are due, each obligor may be relieved from the obligation by setting off the value of that obligation against the corresponding amount of the obligation of the other obligor; provided, however, that this does not apply if the nature of the obligation does not permit such a set-off.
+(2) Notwithstanding the provisions of the preceding paragraph, if a party manifests the intention to prohibit or restrict a set-off, that manifestation of the intention may be duly asserted against a third party only if the third party knew or did not know due to gross negligence it.
+query: 
+Claim X is A's claim against B, and claim Y is B's claim against A. If F, A's creditor, attaches claim X after the due date for claim X has arrived, B may duly assert against F a set-off based on claim Y against claim X even before the due date for claim Y, which was acquired before the attachment.
+N
+
+R03-21-U
+articles: 
+Article 509 The obligor of either of the following obligations may not duly assert a set-off against the obligee; provided, however, that this does not apply if the obligee acquires a claim corresponding to the relevant obligation from another person:
+(i) an obligation for compensation for loss or damage based on a tort committed in bad faith; or
+(ii) an obligation for compensation for loss or damage for death or injury to person (excluding the one set forth in the preceding item).
+query: 
+Claim X is A's claim against B, and claim Y is B's claim against A. Claim X was assigned to A from E, and claim X was E's claim against B for loss or damage based on B's tort committed in bad faith. In this case, B may duly assert against A a set-off based on claim Y against claim X.
+Y
+
+R03-22-A
+articles: 
+Article 548 The right to cancel is extinguished if the holder of the right to cancel, intentionally or negligently, causes significant damage to, or makes it impossible to return the object of the contract, or converts the object into another kind of thing by processing or alteration; provided, however, that this does not apply if the holder of the right to cancel does not know of the holder's right to cancel.
+query: 
+If the holder of the right to cancel negligently makes it impossible to return the object of the contract, the right to cancel is extinguished even if the holder of the right to cancel does not know of the holder’s right to cancel.
+N
+
+R03-22-E
+articles: 
+Article 547 If no period of time is specified for the exercise of the right to cancel, the other party may issue a notice of demand to the holder of the right to cancel, specifying a reasonable period of time, to the effect that the holder of the right to cancel is to give a definite answer as to whether the holder will cancel or not within that period of time. In this case, if no notice of cancellation is received within that period, the right to cancel is extinguished.
+query: 
+If no period of time is specified for the exercise of the right to cancel, the right to cancel is extinguished if no notice of cancellation is received within that period, even though the other party has issued a notice of demand to the holder of the right to cancel, specifying a reasonable period of time, to the effect that the holder of the right to cancel is to give a definite answer as to whether the holder will cancel or not within that period of time.
+Y
+
+R03-23-O
+articles: 
+Article 566 If the subject matter delivered by the seller to the buyer does not conform to the terms of the contract with respect to the kind or quality, and the buyer fails to notify the seller of the non-conformity within one year from the time when the buyer becomes aware of it, the buyer may not demand cure of the non-conformity of performance, demand a reduction of the price, claim compensation for loss or damage, or cancel the contract, on the grounds of the non-conformity; provided, however, that this does not apply if the seller knew or did not know due to gross negligence the non-conformity at the time of the delivery.
+Article 562 (1) If the subject matter delivered to the buyer does not conform to the terms of the contract with respect to the kind, quality or quantity, the buyer may demand that the seller cure the non-conformity of performance by repairing the subject matter, delivering the substitute or delivering the replenishment; provided, however, that the seller may cure the non-conformity of performance by a method that is different from the method demanded by the buyer if it does not impose any undue burden on the buyer.
+(2) If the non-conformity referred to in the preceding paragraph is due to grounds attributable to the buyer, the buyer may not demand that the seller cure the non-conformity of performance under the provisions of that paragraph.
+Article 564 The provisions of the preceding two Articles do not preclude the buyer from claiming compensation for loss or damage pursuant to the provisions of Article 415 or exercising the right to cancel pursuant to the provisions of Articles 541 and 542.
+Article 415 (1) If an obligor fails to perform consistent with the purpose of the obligation or the performance of an obligation is impossible, the obligee may claim compensation for loss or damage arising from the failure; provided, however, that this does not apply if the failure to perform the obligation is due to grounds not attributable to the obligor in light of the contract or other sources of obligation and the common sense in the transaction.
+(2) If the obligee is entitled to claim compensation for loss or damage pursuant to the provisions of the preceding paragraph, and any of the following cases applies, the obligee may claim compensation for loss or damage in lieu of the performance of the obligation:
+(i) the performance of the obligation is impossible;
+(ii) the obligor manifests the intention to refuse to perform the obligation; or
+(iii) the obligation has arisen from a contract, and the contract is cancelled or the obligee acquires the right to cancel the contract on the ground of the obligor's failure to perform the obligation.
+query: 
+In the contract for sale between A and B, the quantity of the object delivered by the seller A to the buyer B is insufficient and does not conform to the terms of the contract. If B fails to notify A of the non-conformity in the quantity within one year from the time when B becomes aware of it, B may not claim compensation for loss or damage, unless A knew or did not know due to gross negligence the non-conformity in the quantity at the time of the delivery.
+N
+
+R03-24-A
+articles: 
+Article 554 With respect to gifts that become effective on the death of the donor, the provisions regarding bequests apply mutatis mutandis, to the extent they are not inconsistent with the nature of gifts that become effective on the death of the donor.
+Article 549 Gifts become effective by the manifestation of intention by one of the parties to give a certain property to the other party gratuitously, and the acceptance of the other party thereof.
+query: 
+Gifts on donor’s death do not need to be made in writing, but can be concluded only by agreement of the parties.
+Y
+
+R03-25-U
+articles: 
+Article 595 (1) The borrower bears the ordinarily necessary expenses of borrowed thing.
+(2) The provisions of Article 583, paragraph (2) apply mutatis mutandis to costs other than the ordinarily necessary expenses referred to in the preceding paragraph.
+query: 
+A entered into a contract of loan for use with B to allow B to make use of building X owned by A. If B has defrayed the ordinarily necessary expenses with respect to building X, B may demand the reimbursement of the necessary expenses from A.
+N
+
+R03-27-I
+articles: 
+Article 658 (1) A bailee may not use the bailed thing without obtaining the consent of the bailor.
+(2) The bailee may not have a third party keep the bailed thing in custody unless the bailee obtains the consent of the bailor or there is a compelling reason to do so.
+(3) A sub-bailee has the same rights and obligations as those of the bailee in relation to the bailor within the scope of authority thereof.
+query: 
+The bailee may, without the consent of the bailor, have a third party keep the bailed thing in custody when there is a compelling reason to do so.
+Y
+
+R03-28-I
+articles: 
+Article 675 (1) A creditor of a partnership may exercise the rights of the creditor against the partnership property.
+(2) A creditor of a partnership may, at the choice of the creditor, exercise the rights of the creditor against each partner in proportion to their shares of loss or in equal proportions; provided, however, that if a creditor of a partnership knew the proportion of each partner's share of loss at the time of occurrence of the claim, the exercise of the creditor's rights is based on those proportions.
+query: 
+A creditor of a partnership may, at the choice of the creditor, exercise the rights of the creditor against each partner in equal proportions, even if a creditor of a partnership knew the proportion of each partner's share of loss at the time of occurrence of the claim.
+N
+
+R03-36-E
+articles: 
+Article 196 (1) If a possessor returns a thing in the possession thereof, the possessor may have the person recovering the thing reimburse the possessor for the costs the possessor has paid for its preservation and other necessary expenses; provided, however, that if the possessor has acquired fruits, ordinary and necessary expenses are borne by the possessor.
+(2) In the case referred to in the preceding paragraph, a new period of prescription commences to run at the time when the grounds set forth in the items of that paragraph cease to exist; provided, however, that this does not apply if the grounds cease to exist due to the withdrawal of a petition or the rescission of a petition for the failure to comply with the provisions of the law.
+query: 
+B, who had possessed land X in bad faith , may not claim reimbursement from A for the ordinary and necessary expenses defrayed with respect to land X when land X is returned to A.
+N
+
+R03-36-U
+articles: 
+Article 559 The provisions of this Section apply mutatis mutandis to contracts for value other than contracts for sale; provided, however, that this does not apply when it is not permitted by the nature of the contract for value.
+Article 558 The expenses associated with contracts for sale are borne equally by both parties.
+query: 
+The expenses associated with conclusions of lease contracts are borne equally by both parties.
+Y
+
+R03-37-I
+articles: 
+Article 446 (1) A guarantor has the responsibility to perform the obligation of the principal obligor when the latter fails to perform that obligation.
+(2) No guarantee contract becomes effective unless it is made in writing.
+(3) If a guarantee contract is concluded by electronic or magnetic record which records the terms thereof, the guarantee contract is deemed to be made in writing, and the provisions of the preceding paragraph apply.
+query: 
+A guarantee contract becomes effective even if no written document is prepared but the agreement is made by means of sending and receiving e-mail to each other.
+Y
+

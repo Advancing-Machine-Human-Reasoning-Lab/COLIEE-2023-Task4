@@ -1,0 +1,259 @@
+H30-4-U
+articles: 
+Article 94
+(1) A false manifestation of intention that a person makes in collusion with another person is void.
+(2) The nullity of a manifestation of intention under the provisions of the preceding paragraph may not be duly asserted against a third party in good faith.
+Article 101
+(1) If the validity of a manifestation of intention that an agent has made to the other party is to be influenced by the absence of intention; by mistake, fraud, or duress; or by the knowledge of or negligence in not knowing of a particular circumstance; whether or not any such fact was present is decided as it concerns the agent.
+(2) If the validity of a manifestation of intention that the other party has made to the agent is to be influenced by the recipient's knowledge of or negligence in not knowing of a particular circumstance, whether or not any such fact was present is decided as it concerns the agent.
+(3) If an agent who has been entrusted with performing a specific juridical act performs that act, the principal may not assert that the agent did not know of any particular circumstance of which the principal knew. The same applies to any circumstance of which the principal did not know due to the principal's own negligence.
+query: 
+In cases an agent makes a false manifestation of intention on sales contract in collusion with the counterparty, the counterparty may assert the invalidity of the contract regardless of whether the principal knew the false manifestation of intention.
+Y
+
+H30-4-E
+articles: 
+Article 111
+(1) The authority to represent ceases to exist upon:
+(i) death of the principal; and
+(ii) death of the agent, or being given an order commencing bankruptcy proceeding or a decision for commencement of guardianship against the agent.
+(2) The authority to represent by mandate ceases to exist, other than on the grounds set forth in the respective items of the preceding paragraph, upon the termination of the mandate.
+query: 
+The authority of an agency shall be terminated upon ruling for commencement of curatorship against the agent.
+N
+
+H30-4-O
+articles: 
+Article 102
+An act that a person with qualified legal capacity performs as an agent of another person may not be rescinded on the grounds of qualified legal capacity;provided, however, that this does not apply to an act performed by a person with qualified legal capacity as a legal representative of another person with qualified legal capacity.
+query: 
+A contract may not be rescinded by the principal after it is performed by an agent with a counterparty even if it turns out that the agent was a person with limited capacity.
+Y
+
+H30-5-E
+articles: 
+Article 116
+Ratification is retroactive to the time of the conclusion of the contract unless a particular intention is manifested;provided, however, that this may not prejudice the rights of a third party.
+query: 
+If a proxy act of a person who has parental authority is the act of conflicting interests, the principal can approve it after he/she attained the age of majority.
+Y
+
+H30-7-I
+articles: 
+Article 177
+Acquisitions of, losses of and changes in real rights on immovables may not be duly asserted against any third parties, unless the same are registered pursuant to the applicable provisions of the Real Property Registration Act (Act No. 123 of 2004) and other laws regarding registration.
+query: 
+A concluded a sales contract with B to the effect that A sold land P owned by A (hereinafter referred to as "First Sales Contract"), and received the payment from B, but A did not undertake the ownership transfer registration procedure from A to B. Then A concluded a sales contract with C to sell land P to C (hereinafter referred to as "Second Sales Contract"), and ownership transfer registration procedure from A to C was undertaken. After that, A went missing and B brought an action against C for the transfer registration procedure from C to B based on the ownership. If C claims a defense of requirement for perfection, C must prove that the second sales contract was concluded and that C was without any knowledge of First Sales Contract and was not negligent about Fisrt Sales Contract at the time of conclusion of Second Sales Contract.
+N
+
+H30-8-A
+articles: 
+Article 201
+(1) An action for maintenance of possession must be filed during the obstruction or within one year after the obstruction stops;provided, however, that if the possessed thing has been damaged due to construction work and either one year has passed from the time when the construction was started or the construction has been completed, the action may not be filed.
+(2) An action for preservation of possession may be filed so long as the danger of obstruction exists.In this case, the provisions of the proviso to the preceding paragraph apply mutatis mutandis if the possessed thing is likely to be damaged by the construction work.
+(3) An action for recovery of possession must be filed within one year from the time when a possessor was forcibly dispossessed.
+query: 
+Actions for maintenance of possession must be brought during the disturbance.
+N
+
+H30-8-I
+articles: 
+Article 180
+Possessory rights are acquired by possessing a thing with the intention to do so on one's own behalf.
+query: 
+A's minor child B who is living with A in building P owned by A shall not possess the possessory right of building P.
+Y
+
+H30-9-U
+articles: 
+Article 270
+A farming right holder has the right to pay rent and engage in cultivation or livestock farming on another person's land.
+query: 
+Free emphyteusis may not be established.
+Y
+
+H30-12-E
+articles: 
+Article 356
+The pledgee of immovables may use and profit from the immovables that are the subject matter of a pledge in line with the way the relevant immovables are used.
+query: 
+In pledges of immovables, pledgees and a pledgors may conclude a special provision that the pledgees may not use and receive the profits from the immovable property that is the subject matter of the pledge.
+Y
+
+H30-13-U
+articles: 
+Article 387
+(1) A registered lease may be duly asserted against mortgagees that hold mortgages registered prior to the registration of that lease if all mortgagees that hold those mortgages give their consent and those consents are registered.
+(2) For a mortgagee to give the consent referred to in the preceding paragraph, the approval of the persons that hold rights for which the mortgage is the subject matter and other persons that will suffer detriment as a result of the consent of the mortgagee must be obtained.
+query: 
+In cases where there is a delivery of building, and all persons holding mortgages give their consent and such consents are registered before the delivery, the building lease, even if not so registered, can be asserted against those mortgagees who gave their consent.
+N
+
+H30-15-U
+articles: 
+Article 398-3
+(1) A revolving mortgagee may exercise the relevant revolving mortgage up to the maximum amount with respect to all of crystallized principal as well as periodic payments including interest and compensation for loss or damage resulting from failure to perform obligations.
+(2) If a claim under a negotiable instrument or check or electronically recorded monetary claim acquired from causes other than the transactions with the obligor is agreed to be treated as a claim to be secured by a revolving mortgage, and any of the following grounds exist, that revolving mortgage may be exercised only with respect to claims acquired before those grounds arose;provided, however, that even with respect to claims acquired after the grounds arose, the exercise of the revolving mortgage is not precluded as far as the claims were acquired without knowledge of those grounds:
+(i) the suspension of payments by the obligor;
+(ii) a petition to commence bankruptcy proceeding, the commencement of rehabilitation proceeding, the commencement of reorganization proceeding or the commencement for special liquidation with respect to the obligor; or
+(iii) a petition for commencement of auction procedure in relation to a mortgaged immovables or attachment for disposition of delinquency.
+query: 
+In cases where a revolving mortgagee executes his/her Revolving Mortgage, he/she may not be distributed the proceeds from the portion that is over the maximum amount with respect to all fixed payments.
+Y
+
+H30-16-O
+articles: 
+Article 406
+If the subject matter of the claim is to be determined by a choice being made from among more than one performance, the right to choose belongs to the obligor.
+query: 
+In cases where the claim is alternative obligation, the right to make the choice shall vest in the obligor unless otherwise manifestation of intention provided.
+N
+
+H30-18-U
+articles: 
+Article 457
+(1) The postponement of expiry of prescription period and the renewal of prescription period due to grounds such as a request for performance in relation to the principal obligor are also effective in relation to the guarantor.
+(2) A guarantor may assert against the obligee a defense that can be raised by the principal obligor.
+(3) If the principal obligor has a right to set-off, right to rescind or right to cancel against the obligee, the guarantor may refuse to perform the obligation to the obligee to the extent that the principal obligor should have been released from the obligation by exercising these rights.
+query: 
+Even if the principal obligor has a claim vis-a-vis the obligee, the guarantor must perform his/her guarantee obligations when the obligee demands to do so.
+N
+
+H30-19-A
+articles: 
+Article 462
+(1) The provisions of Article 459-2, paragraph (1) apply mutatis mutandis if a person, that has given guarantee without the request of the principal obligor, performs an act for extinguishment of obligation.
+(2) A person that has become a guarantor against the will of the principal obligor has the right to reimbursement only to the extent currently enriched.In this case, if the principal obligor asserts to have grounds for set-off against the obligee prior to the day of the demand for reimbursement, the guarantor may demand that the obligee perform the obligation which would have been extinguished by that set-off.
+(3) The provisions of Article 459-2, paragraph (3) apply mutatis mutandis to the exercise of the right to reimbursement if the guarantor referred to in the preceding two paragraphs performs an act for extinguishment of obligation before the due date of the principal obligation.
+query: 
+A guarantor without the entrustment of the principal obligor may not perform the obligation against the will of him/her.
+N
+
+H30-20-A
+articles: 
+Article 494
+(1) In the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. In such a case, the claim is extinguished when the performer makes the deposit:
+(i) the performer tenders the performance, and the obligee refuses to accept it; or
+(ii) the obligee is unable to accept the performance.
+(2) The preceding paragraph also applies if the performer is unable to ascertain the obligee;provided, however, that this does not apply if the performer is negligent in this respect.
+Article 474
+(1) A third party may also perform an obligation.
+(2) A third party that has no legitimate interest in performing an obligation may not perform the obligation against the will of the obligor;provided, however, that this does not apply if the obligee did not know that the performance is against the will of the obligor.
+(3) The third party prescribed in the preceding paragraph may not perform the obligation against the will of the obligee;provided, however, that this does not apply if the third party performs the obligation as requested by the obligor, and the obligee knew this.
+(4) The provisions of the preceding three paragraphs do not apply if the nature of an obligation does not permit the performance by a third party or if a party manifests the intention to prohibit or restrict the performance by a third party.
+query: 
+In case a third party who has interest in the performance of an obligation tendered the performance and the obligee refuses, the third party may not deposit against the will of the obligor.
+N
+
+H30-20-E
+articles: 
+Article 494
+(1) In the following cases, a performer may deposit the subject matter of the performance with an official depository for the benefit of the obligee. In such a case, the claim is extinguished when the performer makes the deposit:
+(i) the performer tenders the performance, and the obligee refuses to accept it; or
+(ii) the obligee is unable to accept the performance.
+(2) The preceding paragraph also applies if the performer is unable to ascertain the obligee;provided, however, that this does not apply if the performer is negligent in this respect.
+query: 
+When an obligor deposits the subject matter of monetary debt, the obligations shall be extinguished when the obligee receives the money.
+N
+
+H30-22-A
+articles: 
+Article 519
+If an obligee manifests the intention to release an obligor from an obligation to that obligor, the obligee's claim is extinguished.
+query: 
+In cases where an obligee manifests his/her intention to release an obligation to the obligor, such obligation shall be extinguished when the obligor manifests his/her intention to receive the benefit of the release.
+N
+
+H30-22-O
+articles: 
+Article 448
+(1) If the burden of a guarantor is more onerous than the principal obligation as to either its subject matter or terms, it is reduced to the extent of the principal obligation.
+(2) Even if the subject matter or terms of the principal obligation are made more onerous after the conclusion of a guarantee contract, the burden of the guarantor remains unchanged.
+query: 
+In cases where a principal obligor is released from the obligations, the obligations of the joint and several guarantor shall be extinguished.
+Y
+
+H30-23-A
+articles: 
+Article 587
+A loan for consumption becomes effective when a first party receives money or any other thing from a second party, having promised to return a thing of the same type, quality, and quantity.
+query: 
+No pre-contract of a monetary loan for consumption shall be effective unless it is made in writing.
+N
+
+H30-24-U
+articles: 
+Article 593
+A loan for use becomes effective if one of the parties promises to deliver a certain thing, and the other party promises to return the thing when the contract is terminated after the other party gratuitously uses and makes profit of the borrowed thing.
+query: 
+A who is the owner of a building and B made a loan agreement where B borrows the building for free only while A is working abroad, and then, however, A made a loan contract with third party C, and transferred the building. In such case, B may not demand compensation for damages due to default based on the loan for use contract from A.
+Y
+
+H30-24-E
+articles: 
+Article 196
+(1) If a possessor returns a thing in the possession thereof, the possessor may have the person recovering the thing reimburse the possessor for the costs the possessor has paid for its preservation and other necessary expenses;provided, however, that if the possessor has acquired fruits, ordinary and necessary expenses are borne by the possessor.
+(2) With respect to the costs paid for by a possessor to improve the thing in the possession thereof and other beneficial expenses, the possessor may have the person recovering the thing reimburse the possessor for either the costs the possessor has paid or the amount of the increased value, whichever the person recovering the thing chooses, but only if there is a current increase in value;provided, however, that with regard to a possessor in bad faith, the court may, at the request of the person recovering the thing, grant a reasonable period of time for the same.
+Article 583
+(1) A seller may not effect redemption unless the seller provides the price and the costs of the contract within the period provided for in Article 580.
+(2) If a buyer or subsequent acquirer incurs expenses with respect to immovables, the seller must reimburse those expenses in accordance with the provisions of Article 196;provided, however, that with respect to beneficial expenses, the court may, at the seller's request, grant a reasonable period of time for the reimbursement.
+Article 595
+(1) The borrower bears the ordinarily necessary expenses of borrowed thing.
+(2) The provisions of Article 583, paragraph (2) apply mutatis mutandis to costs other than the ordinarily necessary expenses referred to in the preceding paragraph.
+query: 
+In cases where a borrower incurred useful expenses with respect to a leased thing, and there is a current increase in value, it shall be sufficient for the lender to reimburse money the possessor paid or the amount of the increased value at the selection of the lender.
+Y
+
+H30-25-A
+articles: 
+Article 613
+(1) If a lessee lawfully subleases a leased thing, the sublessee is liable to perform an obligation based on the sublease directly to the lessor, to the extent of the scope of the lessee's obligation based on the lease between the lessor and the lessee. In such a case, advance payment of rent may not be duly asserted against the lessor.
+(2) The provisions of the preceding paragraph do not preclude the lessor from exercising rights against the lessee.
+(3) If the lessee lawfully subleases a leased thing, the lessor may not duly assert against the sublessee the cancellation by agreement of the lease with the lessee;provided, however, that this does not apply if, at the time of the cancellation, the lessor has a right to cancel due to non-performance on the part of the lessee.
+query: 
+A leased building D to B at 100,000 yen per month and delivered building D to B. Afterward, B subleased building D to C at 120,000 yen per month and delivered building D to C. If A has approved the sublease between B and C, A may demand that C pay 120,000 yen per month as a rent.
+N
+
+H30-26-A
+articles: 
+Article 644
+A mandatary bears a duty to administer the mandated business with the due care of a prudent manager in compliance with the main purport of the mandate.
+query: 
+A gratuitous mandatary shall assume a duty to administer the mandated business with the care of the same care he/she would exercise for him/herself with the main purport of the mandate.
+N
+
+H30-28-U
+articles: 
+Article 702
+(1) If a manager has incurred beneficial expenses for a principal, the manager may claim reimbursement of those costs from the principal.
+(2) The provisions of Article 650, paragraph (2) apply mutatis mutandis if a manager has incurred beneficial obligations on behalf of the principal.
+(3) If a manager has engaged in the benevolent intervention in another's business against the will of the principal, the provisions of the preceding two paragraphs apply mutatis mutandis, solely to the extent currently enriched.
+query: 
+When A was on a long-term business trip and was absent, a part of a hedge of A's house collapsed due to a strong wind. Afterward, B who has a house on a land next to A's house performed an act for A without any obligation. If the hedge has all collapsed after B repaired the hedge by him/herself and the repair has been against A's intention, B may not demand the payment of the expenses for the repair from A.
+Y
+
+H30-28-E
+articles: 
+Article 698
+If a manager engages in benevolent intervention in another's business in order to allow a principal to escape imminent danger to the principal's person, reputation, or property, the manager is not liable to compensate for damage resulting from this unless the manager has acted in bad faith or with gross negligence.
+query: 
+When A was on a long-term business trip and was absent, a part of a hedge of A's house collapsed due to a strong wind. Afterward, B who has a house on a land next to A's house performed an act for A without any obligation. If B started repair of the hedge by him/herself but the hedge has all withered because B left it in the middle of the repair, A may not claim the damage of the withered hedge.
+N
+
+H30-28-O
+articles: 
+Article 697
+(1) A person that has begun to manage a business for another person without being obligated to do so (hereinafter in this Chapter referred to as a "manager") must manage that business, in accordance with the nature of the business, in the way that best suits the interests of the principal (hereinafter referred to as "benevolent intervention in another's business").
+(2) A manager must engage in benevolent intervention in another's business in accordance with the intentions of the principal if the manager knows, or is able to conjecture that intention.
+query: 
+When A was on a long-term business trip and was absent, a part of a hedge of A's house collapsed due to a strong wind. Afterward, B who has a house on a land next to A's house performed an act for A without any obligation. If B has repaired the hedge by him/herself for crime prevention of not only A's house but also B's house, B may not demand the payment of the expenses for the repair from A.
+N
+
+H30-36-O
+articles: 
+Article 520
+If a claim and obligation becomes vested in the same person, such claim is extinguished;provided, however, that this does not apply if such a claim is the subject matter of the right of a third party.
+query: 
+If a guarantor inherits an obligee, the guarantee obligation shall be extinguished.
+Y
+

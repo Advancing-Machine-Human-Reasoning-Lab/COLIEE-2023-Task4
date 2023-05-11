@@ -1,0 +1,248 @@
+R02-2-E
+articles: 
+Article 35 (1) With the exception of states, administrative divisions of states, and commercial companies, the formation of foreign juridical persons is not permitted; provided, however, that this does not apply to a foreign juridical persons that is permitted pursuant to the provisions of a law or treaty.
+(2) A foreign juridical person permitted pursuant to the provisions of the preceding paragraph possesses the same private rights as those possessed by a juridical person of the same kind that has been formed in Japan; provided, however, that this does not apply to a right that a foreign national is not entitled to enjoy or to any right for which there are special provisions in a law or treaty.
+query: 
+A foreign juridical person permitted possesses the same private rights even if a foreign national is not entitled to enjoy the rights as those possessed by a juridical person of the same kind that has been formed in Japan.
+N
+
+R02-3-A
+articles: 
+Article 95 (1) A manifestation of intention is voidable if it is based on either of the following mistakes, and the mistake is material in light of the purpose of the juridical act and the common sense in the transaction:
+(i) a mistake wherein the person lacks the intention that corresponds to the manifestation of intention; or
+(ii) a mistake wherein the person making the manifestation of intention holds an understandings that does not correspond to the truth with regard to the circumstances which the person has taken as the basis for the juridical act.
+query: 
+With respect to the rescission of a manifestation of intention on the ground of a mistake, whether the mistake is material or not is decided on the basis of the person making the manifestation of intention.
+N
+
+R02-3-O
+articles: 
+Article 95 (1) A manifestation of intention is voidable if it is based on either of the following mistakes, and the mistake is material in light of the purpose of the juridical act and the common sense in the transaction:
+(i) a mistake wherein the person lacks the intention that corresponds to the manifestation of intention; or
+(ii) a mistake wherein the person making the manifestation of intention holds an understandings that does not correspond to the truth with regard to the circumstances which the person has taken as the basis for the juridical act.
+(2) A manifestation of intention under the provisions of item (ii) of the preceding paragraph may be rescinded only if it has been indicated that the circumstances in question are being taken as the basis for the juridical act.
+(3) If a mistake is due to gross negligence on the part of the person making the manifestation of intention, that person may not rescind a manifestation of intention as under paragraph (1), except in the following cases:
+(i) if the other party knew, or did not know due to gross negligence, of the mistake on the part of the person making the manifestation of intention; or
+(ii) if the other party was under the same mistake as the person making the manifestation of intention.
+query: 
+In the case a manifestation of intention of A to B is based on a mistake and the mistake is due to gross negligence on the part of A, A may not rescind the manifestation of intention, unless B knew, or did not know due to gross negligence, of the mistake on the part of A.
+N
+
+R02-4-A
+articles: 
+Article 117 (1) A person who concludes a contract as an agent of another person is liable to the counterparty for the performance of the contract or compensation for loss or damage, as chosen by the counterparty, unless the person proves the authority to represent or the principal ratifies the contract.
+query: 
+A, who acts as the agent of B, concluded a contract with C for sale of land owned by B. However, A had no authority to represent to conclude the contract. A is liable for the performance of the contract or compensation for loss or damage, as chosen by A.
+N
+
+R02-4-I
+articles: 
+Article 117 (1) A person who concludes a contract as an agent of another person is liable to the counterparty for the performance of the contract or compensation for loss or damage, as chosen by the counterparty, unless the person proves the authority to represent or the principal ratifies the contract.
+query: 
+A, who acts as the agent of B, concluded a contract with C for sale of land owned by B. However, A had no authority to represent to conclude the contract. If B ratifies the contract of sales, A is not liable to C as an unauthorized agency.
+Y
+
+R02-5-I
+articles: 
+Article 126 The right to rescind an act is extinguished by the operation of the prescription if it is not exercised within five years from the time when it becomes possible to ratify the act. The same applies if 20 years have passed from the time of the act.
+query: 
+The right to rescind an act induced by fraud is extinguished by prescription, if the obligee does not exercise the right within five years from the time of the act.
+N
+
+R02-8-E
+articles: 
+Article 192 A person that commences the possession of movables peacefully and openly by a transactional act acquires the rights that are exercised with respect to the movables immediately if the person possesses it in good faith and without negligence.
+query: 
+A took the jewelry that B had forgotten, believing without negligence that it belonged to A. In this case, A may not obtain the ownership of the jewelry by good faith acquisition.
+Y
+
+R02-9-A
+articles: 
+Article 200 (1) If a possessor is forcibly dispossessed, the possessor may demand the restitution of the thing and compensation for loss or damage by filing an action for recovery of possession.
+query: 
+A has leased a copying machine owned by A to B, and B has not returned it by using it even after the termination of the lease agreement. In this case, A may demand the return of the copying machine against B by filing an action for recovery of possession.
+N
+
+R02-9-I
+articles: 
+Article 200 (1) If a possessor is forcibly dispossessed, the possessor may demand the restitution of the thing and compensation for loss or damage by filing an action for recovery of possession.
+(2) An action for recovery of possession may not be filed against a specific successor of a person that forcibly takes possession; provided, however, that this does not apply if that successor had knowledge of the fact that the person has unlawfully taken the possession.
+query: 
+B stole A's computer with a sticker "Owner A" on the bottom. B transferred the computer to C who does not know the theft, without changing the computer's appearance. In this case, A may not demand the return of the computer by filing an action for recovery of possession.
+Y
+
+R02-9-E
+articles: 
+Article 192 A person that commences the possession of movables peacefully and openly by a transactional act acquires the rights that are exercised with respect to the movables immediately if the person possesses it in good faith and without negligence.
+query: 
+B obtained A's bicycle by fraud. In this case, A may demand the return of the bicycle against B by filing an action for recovery of possession.
+N
+
+R02-9-O
+articles: 
+Article 201 (1) An action for maintenance of possession must be filed during the obstruction or within one year after the obstruction stops; provided, however, that if the possessed thing has been damaged due to construction work and either one year has passed from the time when the construction was started or the construction has been completed, the action may not be filed.
+query: 
+A had owned land in an area of holiday homes. B, who owned neighboring land, began to construct a fence on A's land crossing the boundary without A's consent, and two years later the fence was completed. As of this time, A may not demand the removal of the fence against B by filing an action for maintenance of possession.
+Y
+
+R02-10-I
+articles: 
+Article 268 (1) If the duration of superficies is not fixed by the act that established the same and there are no relevant customs, the superficiary may waive that right at any time; provided, however, that if rent must be paid, the superficiary must give notice one year or more in advance or pay rent for one year that has not yet become due and payable.
+query: 
+The duration of agreed superficies must be fixed within a duration of 20 years or more but not more than 50 years.
+N
+
+R02-13-A
+articles: 
+Article 398-11 (1) Before the principal is crystallized, a revolving mortgagee may not dispose of a revolving mortgage under the provisions of Article 376, paragraph (1); provided, however, that the revolving mortgagee is not precluded from applying that revolving mortgage to secure other claims.
+(2) The provisions of Article 377, paragraph (2) do not apply to payments made before the principal is crystallized in the cases provided for in the proviso to the preceding paragraph.
+Article 376 (1) A mortgagee may apply the mortgage to secure other claims, or assign or waive that mortgage, or its order of priority, for the benefit of other obligees of the same obligor.
+(2) In the cases referred to in the preceding paragraph, if a mortgagee disposes of the mortgage for the benefit of two or more persons, the order of priority of the rights of persons who benefit from that disposition follows the chronological order of supplemental registration in the registration of the mortgage.
+query: 
+Suppose that obligator (A) sets a mortgage on his real estate for obligee (B).
+An obligee (B) may assign the order of priority of a mortgage to another obligee(C) of obligator (A) before the principal is crystallized.
+N
+
+R02-15-I
+articles: 
+Article 412-2 (1) If the performance of an obligation is impossible in light of the contract or other sources of claims and the common sense in the transaction, the obligee may not request the performance of the obligation.
+(2) The impossibility of the performance of an obligation based on a contract as of the time of the formation of the contract does not preclude claiming compensation for loss or damage that arises from the impossibility of the obligation pursuant to the provisions of Article 415.
+query: 
+The contract for sale does not become effective in the case where X is burned down the day before the day of the conclusion of the contract.
+N
+
+R02-15-U
+articles: 
+Article 422-2 If the obligor acquires a right or profit as a substitute for the subject matter of the obligation due to the same cause as the one that has rendered the performance of the obligation impossible, the obligee may demand the transfer of the right or reimbursement of the profit from the obligor, to the extent of the amount of damage sustained thereby.
+query: 
+If, after the conclusion of the contract for sale, a buyer (B) pays 1000000 yen for X, but before a seller (A) delivers X to B, X is burned-out due to grounds attributable to B, and A obtains 700,000 yen of the insurance money for damage caused by the destruction of X, B may claim payment of 700,000 yen to A.
+Y
+
+R02-15-E
+articles: 
+Article 536 (1) If the performance of an obligation becomes impossible due to grounds not attributable to either party, the obligee may refuse to perform counter-performance.
+query: 
+If, after the conclusion of the contract for sale and before A delivers X to B, X is burned down caused by negligence of a third party, the debt to pay the price of B is extinguished by operation of law.
+N
+
+R02-16-A
+articles: 
+Article 424-7 (1) In an action concerning demand for rescission of fraudulent act, the person specified in each of the following items according to the categories set forth in the respective items stands as a defendant:
+(i) an action concerning demand for rescission of fraudulent act against the beneficiary: the beneficiary; or
+(ii) an action concerning demand for rescission of fraudulent act against the subsequent acquirer: the subsequent acquirer that is the other party to the demand for rescission of fraudulent act.
+(2) If the obligee files an action concerning demand for rescission of fraudulent act, the obligee must give notice of suit to the obligor without delay.
+query: 
+In the case that an obligee (C) files an action concerning demand for rescission of fraudulent act, an obligor (A) must be stood as a defendant.
+N
+
+R02-16-I
+articles: 
+Article 424-5 If the obligee is entitled to make demand rescission for fraudulent act against the beneficiary, and a person subsequently acquires the property which has been transferred to the beneficiary, the obligee may also make demand for rescission of fraudulent act against the subsequent acquirer only in the situations specified in the following items according to the categories set forth in the respective items:
+(i) if the subsequent acquirer acquires the property from the beneficiary: the subsequent acquirer, at the time of the acquisition, knows that the obligor's act will be prejudicial to the obligee; or
+(ii) if the subsequent acquirer acquires the property from another subsequent acquirer: the relevant subsequent acquirer and all the subsequent acquirers that previously acquired the property, at the time of their respective acquisitions, know that the obligor's act will be prejudicial to the obligee.
+Article 424 (1) An obligee may demand the court to rescind an act which the obligor commits knowing that it will prejudice the obligee; provided, however, that this does not apply if a person that benefits from that act (hereinafter referred to as the "beneficiary" in this Subsection) does not know, at the time of the act, that the obligee will be prejudiced.
+query: 
+If beneficiary (B) sells and delivers X to a subsequent acquirer (D), who knows that the gifts of X will prejudice the obligee of A, C may claim to D to rescind the sale between B and D.
+N
+
+R02-16-E
+articles: 
+Article 425 A final and binding judgment upholding demand for rescission of fraudulent act is effective against the obligor and all obligees.
+query: 
+A final and binding judgment upholding demand for rescission of fraudulent act of C is effective against all obligees of A.
+Y
+
+R02-16-O
+articles: 
+Article 425-4 If an act done by the obligor is rescinded by the demand for rescission of fraudulent act made against the subsequent acquirer, the subsequent acquirer may exercise the right specified in each of the following items according to the categories set forth in the respective items; provided, however, that this is limited to the value of the counter-performance which was completed by the subsequent acquirer in order to acquire the property from the predecessor or the value of the claim which was extinguished as a result of the acquisition of the property by the subsequent acquirer from the predecessor:
+(i) if the act prescribed in Article 425-2 is rescinded: the beneficiary's right to demand return of the counter-performance or right to demand reimbursement of its value from the obligor, which should have arisen pursuant to the provisions of that Article if the act were rescinded by the demand for rescission of fraudulent act against the beneficiary; or
+(ii) if the act prescribed in the preceding Article is rescinded (excluding the case of rescission pursuant to the provisions of Article 424-4): the beneficiary's claim against the obligor, which should have been restored pursuant to the provisions of the preceding Article if the act were rescinded by demand for rescission of fraudulent act against the beneficiary.
+Article 425-2 If an act concerning the disposition of property conducted by the obligor (excluding an act concerning the extinguishment of an obligation) is rescinded, the beneficiary may demand that the obligor return the counter-performance that the beneficiary completed in order to acquire the property. If it is difficult for the obligor to return the counter-performance, the beneficiary may demand the reimbursement of its value.
+query: 
+If B sells and delivers X to D, who knows that the gifts of X will prejudice the obligee of A and judgment upholding demand for rescission of fraudulent act of C has become final and binding, D may demand the return of the price from B.
+N
+
+R02-17-U
+articles: 
+Article 439 (1) If one of the joint and several obligors has a claim against the obligee and invokes a set-off, the claim is extinguished for the benefit of all joint and several obligors.
+(2) Until the joint and several obligor that has the claim referred to in the preceding paragraph invokes a set-off, other joint and several obligors may refuse to perform the obligation to the obligee only to the extent of that joint and several obligor's share of the obligation.
+query: 
+If D owes C a debt (Y) of 300000 yen that is set off against the debt (X), and D demands payment of 600000 yen from A while C does not use a set-off for the debt (Y), A may refuse to pay 200000 yen of that debt.
+Y
+
+R02-19-I
+articles: 
+Article 502 (1) If performance by subrogation occurs with respect to one part of a claim, the subrogee, with the consent of the obligee, may exercise the rights of the subrogee together with the obligee in proportion to the value of the subrogee's performance.
+query: 
+If a guarantor has partially paid a secured claim but there is a remaining obligation, the guarantor may independently exercise the secured claim and the security right acquired through subrogation in proportion to the value of the subrogee's performance.
+N
+
+R02-19-E
+articles: 
+Article 504 (1) If there is a person that has legitimate interest in performing an obligation (hereinafter referred to as a "person entitled to subrogation" in this paragraph), and the obligee causes the security thereof to be lost or diminished intentionally or negligently, the person entitled to subrogation is relieved from responsibility to the extent that that person can no longer seek the reimbursement due to the loss or diminution in the security available upon subrogation. If the person entitled to subrogation is a third-party collateral provider, the same applies to a third party that has acquired from the person entitled to subrogation the property that is the subject of security and to the specific successor thereof.
+(2) The provisions of the preceding paragraph do not apply if the obligee is found to have reasonable grounds in light of the common sense in the transaction for causing the security to be lost or diminished.
+query: 
+In case that the obligee is found to have reasonable grounds in light of the common sense in the transaction for causing the security to be diminished, the guarantor may not assert that the guarantor is relieved from responsibility to the extent that that the guarantor can no longer seek the reimbursement due to the diminution in the security available upon subrogation.
+Y
+
+R02-23-U
+articles: 
+Article 539-2 If one of the parties to a contract made an agreement with a third party to transfer that party's contractual status to that third party, and the other party to the contract gives consent to the transfer, the contractual status is transferred to the third party.
+query: 
+If B makes an agreement with E to transfer contractual status of the buyer to E, regardless of whether A consents, the status of the buyer is transferred to E.
+N
+
+R02-24-I
+articles: 
+Article 415 (1) If an obligor fails to perform consistent with the purpose of the obligation or the performance of an obligation is impossible, the obligee may claim compensation for loss or damage arising from the failure; provided, however, that this does not apply if the failure to perform the obligation is due to grounds not attributable to the obligor in light of the contract or other sources of obligation and the common sense in the transaction.
+Article 561 If the subject matter of a sale is another person's right (including a part of a right that belongs to another person), the seller bears an obligation to acquire the right and transfer it to the buyer.
+query: 
+In the case that the seller cannot acquire and transfer the rights to the buyer, the buyer may claim to seller compensation for loss or damage even if the case is not caused by grounds attributable to the seller.
+N
+
+R02-24-U
+articles: 
+Article 562 (1) If the subject matter delivered to the buyer does not conform to the terms of the contract with respect to the kind, quality or quantity, the buyer may demand that the seller cure the non-conformity of performance by repairing the subject matter, delivering the substitute or delivering the replenishment; provided, however, that the seller may cure the non-conformity of performance by a method that is different from the method demanded by the buyer if it does not impose any undue burden on the buyer.
+Article 563 (1) In the case prescribed in the main clause of paragraph (1) of the preceding Article, if the buyer demands that the seller cure the non-conformity of performance by specifying a reasonable period of time but the non-conformity of performance is not cured within that period, the buyer may request a reduction of the price in proportion to the degree of non-conformity.
+(2) Notwithstanding the provisions of the preceding paragraph, in the following cases, a buyer in good faith may request a reduction of the price immediately without making demand referred to in that paragraph:
+(i) if it is impossible to cure the non-conformity of performance;
+(ii) if the seller unequivocally manifests the intention to refuse to cure the non-conformity of performance;
+(iii) if, due to the nature of the contract or a manifestation of intention by the parties, the purpose of the contract is unable to be achieved unless the performance is carried out at a specific time on a specific date or within a certain period of time, and the seller fails to cure the non-conformity of the performance at the time or before the period expires; or
+(iv) beyond the cases set forth in the preceding items, it is obvious that the seller is unlikely to cure the non-conformity of the performance even if the buyer makes the demand referred to in the preceding paragraph.
+query: 
+If the seller cannot transfer any part of the rights which are the subject matter of the sale because the part of the rights belong to others and it is impossible to cure the non-conformity of performance, the seller may immediately claim a reduction of the purchase money without demand.
+Y
+
+R02-27-I
+articles: 
+Article 670 (1) The partnership business is decided by the majority of the partners and executed by each partner.
+(2) The decision and execution of the partnership business may be delegated to one or more partners or a third party, pursuant to the provisions of the partnership contract.
+(3) The person delegated as referred to in the preceding paragraph (hereinafter referred to as a "person who executes business") decides and executes the partnership business. In such a case, if there are two or more persons who execute business, the partnership business is decided by the majority of these persons who execute business and is executed by each of them.
+query: 
+The partnership business is decided by the majority of the partners even if any person is delegated to be a person who executes business.
+N
+
+R02-29-A
+articles: 
+Article 509 The obligor of either of the following obligations may not duly assert a set-off against the obligee; provided, however, that this does not apply if the obligee acquires a claim corresponding to the relevant obligation from another person:
+(i) an obligation for compensation for loss or damage based on a tort committed in bad faith; or
+(ii) an obligation for compensation for loss or damage for death or injury to person (excluding the one set forth in the preceding item).
+query: 
+If a person that holds a monetary claim has borne an obligation for compensation for loss or damage for injury to the obligor of that monetary claim, the person may not duly assert against the obligor, a set-off using the monetary claim against the obligation for compensation.
+Y
+
+R02-36-A
+articles: 
+Article 120 (2) An act that is voidable on the grounds of a mistake, fraud or duress may be rescinded only by the person who made the defective manifestation of intention, or an agent or successor thereof.
+query: 
+An act that is voidable on the grounds of a mistake may also be rescinded by the successor of the contractual status of the person who made the manifestation of intention by mistake.
+Y
+
+R02-36-I
+articles: 
+Article 153 (1) The postponement of the expiry of prescription period or the renewal of prescription period under the provisions of Article 147 or Article 148 is effective only between the parties with respect to whom grounds to postpone the expiry of prescription period or to renew prescription period have arisen and their successors.
+(2) The postponement of expiry of prescription period under the provisions of Articles 149 through 151 is effective only between the parties with respect to whom grounds to postpone the expiry of prescription period have arisen and their successors.
+query: 
+The postponement of expiry of prescription period is not effective against the successors of the parties with respect to whom grounds to postpone the expiry of prescription period have arisen.
+N
+

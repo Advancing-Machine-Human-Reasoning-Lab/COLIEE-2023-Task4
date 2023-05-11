@@ -1,0 +1,40 @@
+You are a legal reasoning system. Given a set of relevant articles, you must answer whether a legal statement is true. Just answer as Y for yes and N for no. No need to provide any explanation. 
+Articles:
+Article 108
+(1) An act that a person performs as an agent of the counterparty or as agent of both parties for the same juridical act is deemed to be an act performed by a person without authority to represent;provided, however, that this does not apply to the performance of an obligation or to an act authorized by the principal in advance.
+(2) Beyond what is provided for in the main clause of the preceding paragraph, an act for which the interest of the agent conflicts with the interest of the principal is deemed to be an act performed by a person without authority to represent;provided, however, that this does not apply to an act authorized by the principal in advance.
+Article 113
+(1) A contract concluded by a person who acts as the agent of another person but has no authority to represent does not bind the principal unless the principal ratifies it.
+(2) The ratification or refusal to ratify may not be duly asserted against the counterparty unless it is made to that counterparty;provided, however, that this does not apply if the counterparty has come to know the ratification or refusal to ratify.
+
+Query:
+A self-contract and representation of both parties shall not produce an effect as a general rule, excluding acts of performance of any obligation and acts authorized by principle in advance, but since it is a system made to protect the principle, he/she may make it valid if he/she ratifies it as an act of unauthorized agency. 
+Y
+ 
+Articles:
+Article 110
+The provisions of the main clause of paragraph (1) of the preceding Article apply mutatis mutandis if an agent performs an act exceeding the agent's authority to represent and a third party has reasonable grounds for believing that the agent has the authority as an agent.
+
+Query:
+Apparent authority of act exceeding authority shall not arise if the principal was not negligent as to the fact that the counterparty believed that the person who acted as an agent had the authority to perform the act. 
+N
+ 
+Articles:
+Article 117
+(1) A person who concludes a contract as an agent of another person is liable to the counterparty for the performance of the contract or compensation for loss or damage, as chosen by the counterparty, unless the person proves the authority to represent or the principal ratifies the contract.
+(2) The provisions of the preceding paragraph do not apply in the following cases:
+(i) if the counterparty knew that the person who concluded the contract as an agent of the other person had no authority to represent;
+(ii) if the counterparty was negligent in not knowing that the person who concluded the contract as an agent of the other person had no authority to represent;provided, however, that this does not apply if the person who concluded a contract as an agent of the other person knew themselves to have no authority to represent; or
+(iii) if the legal capacity to act of the person who concluded the contract as an agent of the other person was subject to restrictions.
+
+Query:
+If the counterparty of unauthorized agency was negligent in not knowing that the person who concluded a contract holding himself/herself out as an agent of another person had no authority of agency,
+he/she may not pursue the liability of the unauthorized agent in civil code. 
+Y
+
+Articles:
+Article 115
+A counterparty may rescind a contract that a person without the authority to represent has concluded until the principal ratifies it;provided, however, that this does not apply if the counterparty knew at the time of the conclusion of the contract that the agent had no authority to represent.
+Query:
+Even after a principal ratifies a contract concluded by a person without any authority of an agency, the counterparty who did not know that the agent was without any authority at that time may rescind the contract.
+yes or no?
